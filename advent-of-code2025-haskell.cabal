@@ -58,7 +58,7 @@ common warnings
 
 common day-defaults
     import:           warnings
-    build-depends:    base ^>=4.19.1.0
+    build-depends:    base >=4.17 && <5
     hs-source-dirs:   .
     default-language: GHC2021
 
