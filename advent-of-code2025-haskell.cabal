@@ -69,35 +69,3 @@ executable day01a
 executable day01b
     import:  day-defaults
     main-is: Day01b.hs
-
-executable day02a
-    import:  day-defaults
-    main-is: Day02a.hs
-
-executable day02b
-    import:  day-defaults
-    main-is: Day02b.hs
-
-executable day03a
-    import:  day-defaults
-    main-is: Day03a.hs
-
-executable day03b
-    import:  day-defaults
-    main-is: Day03b.hs
-
-executable day04a
-    import:  day-defaults
-    main-is: Day04a.hs
-
-executable day04b
-    import:  day-defaults
-    main-is: Day04b.hs
-
-executable day05a
-    import:  day-defaults
-    main-is: Day05a.hs
-
-executable day05b
-    import:  day-defaults
-    main-is: Day05b.hs
