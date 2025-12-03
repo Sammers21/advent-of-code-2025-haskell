@@ -77,3 +77,7 @@ executable day02a
 executable day02b
     import:  day-defaults
     main-is: Day02b.hs
+
+executable day03ab
+    import:  day-defaults
+    main-is: Day03a.hs
