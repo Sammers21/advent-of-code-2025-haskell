@@ -80,4 +80,4 @@ executable day02b
 
 executable day03ab
     import:  day-defaults
-    main-is: Day03a.hs
+    main-is: Day03ab.hs
